@@ -5,6 +5,7 @@ Xamarin ile yaptığım bir oyun.
 ](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)
 
 Blog Sitem
+
 [![sgblogspt png](https://user-images.githubusercontent.com/54938342/117662786-9e191c80-b1a8-11eb-93a8-ff015a06ba7f.jpg)](https://serafettingunes.blogspot.com/)
 
 

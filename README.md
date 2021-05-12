@@ -12,5 +12,8 @@ C#  Webform ile yaptığım site
 
 [![resim](https://user-images.githubusercontent.com/54938342/117663696-9f971480-b1a9-11eb-9a3a-b633bf967f2d.jpg)](https://resim.serafettingunes.com/)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+      
 
+      

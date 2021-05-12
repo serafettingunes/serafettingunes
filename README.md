@@ -15,6 +15,8 @@ C#  Webform ile yaptığım site
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=serafettingunes)
 
  
- 
+[![linkedin (1)](https://user-images.githubusercontent.com/54938342/118039477-10405b80-b379-11eb-98f9-89b40130d0da.png)](https://www.linkedin.com/in/%C5%9Ferafettin-g%C3%BCne%C5%9F-3440/)
+
+
 
       

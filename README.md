@@ -1,12 +1,9 @@
 
 ### Herkese Merhaba 👋
-Xamarin ile yaptığım  oyun. 
+Yaptığım projeler
 
 [![MathPuzzleLogo4](https://user-images.githubusercontent.com/54938342/117662048-cbb19600-b1a7-11eb-8aaa-392f144aa35e.jpg)
 ](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)
-
-C#  Webform ile yaptığım site
-
 [![resim](https://user-images.githubusercontent.com/54938342/117663696-9f971480-b1a9-11eb-9a3a-b633bf967f2d.jpg)](https://resim.serafettingunes.com/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=serafettingunes)
@@ -18,6 +15,15 @@ C#  Webform ile yaptığım site
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serafettingunes&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serafettingunes&layout=compact)](https://github.com/serafettingunes/github-readme-stats)
+
+
+Kullandığım teknolojiler ve programlar
+
+![hashtag](https://user-images.githubusercontent.com/54938342/118315750-90dc9480-b4fe-11eb-9e69-ddea15964c68.png) ![java](https://user-images.githubusercontent.com/54938342/118315771-9934cf80-b4fe-11eb-8a4f-d07cd835b735.png) ![html](https://user-images.githubusercontent.com/54938342/118315802-a3ef6480-b4fe-11eb-9b5e-df92f474f379.png) ![css](https://user-images.githubusercontent.com/54938342/118315818-ab167280-b4fe-11eb-8a69-3a27b9eddee6.png) ![dreamweaver](https://user-images.githubusercontent.com/54938342/118315848-b5d10780-b4fe-11eb-96e6-ad61ecc6b8de.png) ![photoshop](https://user-images.githubusercontent.com/54938342/118315866-ba95bb80-b4fe-11eb-8718-98f148bbee62.png)
+
+
+
+
 
 
 

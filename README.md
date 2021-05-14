@@ -19,10 +19,23 @@ Yaptığım projeler
 
 Kullandığım teknolojiler ve programlar
 
-![hashtag](https://user-images.githubusercontent.com/54938342/118315750-90dc9480-b4fe-11eb-9e69-ddea15964c68.png) ![java](https://user-images.githubusercontent.com/54938342/118315771-9934cf80-b4fe-11eb-8a4f-d07cd835b735.png) ![html](https://user-images.githubusercontent.com/54938342/118315802-a3ef6480-b4fe-11eb-9b5e-df92f474f379.png) ![css](https://user-images.githubusercontent.com/54938342/118315818-ab167280-b4fe-11eb-8a69-3a27b9eddee6.png) ![dreamweaver](https://user-images.githubusercontent.com/54938342/118315848-b5d10780-b4fe-11eb-96e6-ad61ecc6b8de.png) ![photoshop](https://user-images.githubusercontent.com/54938342/118315866-ba95bb80-b4fe-11eb-8718-98f148bbee62.png)
+![hashtag](https://user-images.githubusercontent.com/54938342/118315750-90dc9480-b4fe-11eb-9e69-ddea15964c68.png) ![java](https://user-images.githubusercontent.com/54938342/118315771-9934cf80-b4fe-11eb-8a4f-d07cd835b735.png) ![html](https://user-images.githubusercontent.com/54938342/118315802-a3ef6480-b4fe-11eb-9b5e-df92f474f379.png) ![css](https://user-images.githubusercontent.com/54938342/118315818-ab167280-b4fe-11eb-8a69-3a27b9eddee6.png) ![dreamweaver](https://user-images.githubusercontent.com/54938342/118315848-b5d10780-b4fe-11eb-96e6-ad61ecc6b8de.png) ![photoshop](https://user-images.githubusercontent.com/54938342/118315866-ba95bb80-b4fe-11eb-8718-98f148bbee62.png) ![iconfinder_14_939747](https://user-images.githubusercontent.com/54938342/118317116-54119d00-b500-11eb-96e0-6c691fbfa07e.png)
 
 
 
+        
+
+             
+
+      
+
+     
+
+            
+
+      
+
+    
 
 
 

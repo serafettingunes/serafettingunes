@@ -26,6 +26,8 @@ Kullandığım teknolojiler ve programlar
 
 
 
+
+
         
 
              

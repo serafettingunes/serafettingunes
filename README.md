@@ -3,8 +3,9 @@
 Yaptığım projeler
 
 [![MathPuzzleLogo4](https://user-images.githubusercontent.com/54938342/117662048-cbb19600-b1a7-11eb-8aaa-392f144aa35e.jpg)
-](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)
-[![resim](https://user-images.githubusercontent.com/54938342/117663696-9f971480-b1a9-11eb-9a3a-b633bf967f2d.jpg)](https://resim.serafettingunes.com/)
+](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)    [![1](https://user-images.githubusercontent.com/54938342/118358592-3425bc00-b588-11eb-8f2d-4c980b7df3ba.jpg)
+](https://resim.serafettingunes.com/)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=serafettingunes)
 

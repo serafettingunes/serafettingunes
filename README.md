@@ -3,11 +3,10 @@
 Yaptığım projeler
 
 [![MathPuzzleLogo4](https://user-images.githubusercontent.com/54938342/117662048-cbb19600-b1a7-11eb-8aaa-392f144aa35e.jpg)
-](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)    [![1](https://user-images.githubusercontent.com/54938342/118358592-3425bc00-b588-11eb-8f2d-4c980b7df3ba.jpg)
-](https://resim.serafettingunes.com/)
+](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)    
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=serafettingunes)
+
 
  
 [![linkedin (1)](https://user-images.githubusercontent.com/54938342/118039477-10405b80-b379-11eb-98f9-89b40130d0da.png)](https://www.linkedin.com/in/%C5%9Ferafettin-g%C3%BCne%C5%9F-3440/) [![blogger (1)](https://user-images.githubusercontent.com/54938342/118039667-4087fa00-b379-11eb-8f36-2cba27b891a1.png)](https://serafettingunes.blogspot.com/) [![iconfinder_BW_Medium_glyph_svg_5305158](https://user-images.githubusercontent.com/54938342/118364823-bd49ec80-b5a2-11eb-8f58-171d9ff6dee3.png)](https://serafettingunes40.medium.com/)  [![iconfinder_BW_Twitter_4_glyph_svg_5305171](https://user-images.githubusercontent.com/54938342/118364869-faae7a00-b5a2-11eb-9691-ba0439c04e0c.png)](https://twitter.com/erafett57354175) [![iconfinder_pinterest_401499](https://user-images.githubusercontent.com/54938342/118364914-347f8080-b5a3-11eb-9022-ff696856fd66.png)](https://tr.pinterest.com/serafettingunes/_created/) [ ![iconfinder_instagram_square_black_107097](https://user-images.githubusercontent.com/54938342/118364994-84f6de00-b5a3-11eb-8503-63f561d32ffc.png)](https://www.instagram.com/serafettingunes40/?hl=tr)  [![youtube (1)](https://user-images.githubusercontent.com/54938342/118039802-67463080-b379-11eb-9fde-4b3d5d5c366c.png)](https://www.youtube.com/channel/UCC3k83-Bh5AXcvKBZDh9_Ag)  [![facebook](https://user-images.githubusercontent.com/54938342/118095182-6e505b80-b3d8-11eb-9b92-8787e4a4beca.png)](https://www.facebook.com/serafettin.gunes.9066/)  [![global](https://user-images.githubusercontent.com/54938342/118095661-02babe00-b3d9-11eb-9f8e-e312acd0d38e.png)](https://serafettingunes.com/)

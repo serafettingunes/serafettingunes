@@ -1,7 +1,7 @@
 
 ### Herkese Merhaba 👋
 Yaptığım projeler
-[![100](https://github.com/user-attachments/assets/2083d6c5-02c5-4172-bac0-8d16c75f3f17)(https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)]
+[![100](https://github.com/user-attachments/assets/2083d6c5-02c5-4172-bac0-8d16c75f3f17)](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
  
 
 

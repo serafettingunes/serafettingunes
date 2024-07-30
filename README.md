@@ -1,8 +1,7 @@
 
 ### Herkese Merhaba 👋
 Yaptığım projeler
-
-[![MathPuzzleLogo4]
+![unnamed](https://github.com/user-attachments/assets/93a03c6d-e99a-4ce6-9f87-c722e0e60e97)
 ([https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
 
 

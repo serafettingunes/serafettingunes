@@ -1,8 +1,9 @@
 
 ### Herkese Merhaba 👋
 Yaptığım projeler
+![]()
 
-[![MathPuzzle](https://github.com/user-attachments/assets/0d734fed-768b-42c4-80e4-14eab6cf99bf)(https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)]
+[!MathPuzzle]([https://user-images.githubusercontent.com/54938342/118039477-10405b80-b379-11eb-98f9-89b40130d0da.png](https://github.com/user-attachments/assets/74a442d9-2650-45ef-a2ac-99bcb5128af8))](https://www.linkedin.com/in/%C5%9Ferafettin-g%C3%BCne%C5%9F-3440/)
 
  
 

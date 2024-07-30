@@ -2,7 +2,7 @@
 ### Herkese Merhaba 👋
 Yaptığım projeler
 
-![MathPuzzle](https://github.com/user-attachments/assets/25a0f282-14e8-4910-b2b9-2fd4bbe1c242)
+![MathPuzzle(https://github.com/user-attachments/assets/25a0f282-14e8-4910-b2b9-2fd4bbe1c242)]
 (https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
 
 

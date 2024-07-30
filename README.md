@@ -2,8 +2,8 @@
 ### Herkese Merhaba 👋
 Yaptığım projeler
 
-[![MathPuzzleLogo4](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
-](https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle)    
+[![MathPuzzleLogo4]
+([https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
 
 
 [![](https://visitcount.itsvg.in/api?id=serafettingunes&label=G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)

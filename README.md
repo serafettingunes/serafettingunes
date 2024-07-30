@@ -1,8 +1,8 @@
 
 ### Herkese Merhaba 👋
 Yaptığım projeler
-![unnamed](https://github.com/user-attachments/assets/93a03c6d-e99a-4ce6-9f87-c722e0e60e97)
-([https://play.google.com/store/apps/details?id=com.createchsoft.MathPuzzle](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
+![unnamed]([https://github.com/user-attachments/assets/93a03c6d-e99a-4ce6-9f87-c722e0e60e97](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle))
+
 
 
 [![](https://visitcount.itsvg.in/api?id=serafettingunes&label=G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)

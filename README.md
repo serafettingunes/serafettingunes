@@ -5,9 +5,12 @@ Yaptığım projeler
 [![100](https://github.com/user-attachments/assets/2083d6c5-02c5-4172-bac0-8d16c75f3f17)](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
 [![FootballersTurkuaz](https://github.com/user-attachments/assets/12280718-f118-458e-acc0-30c2d6d72906)](https://play.google.com/store/apps/details?id=com.createchsoft.footballers)
 [![Ekran-görüntüsü-2023-11-26-185753](https://github.com/user-attachments/assets/9c7cb394-47db-40bc-a8b8-ef80ef6fa6de)](https://serafettingunes.github.io/futbolcu/)
+
+
 [![](https://visitcount.itsvg.in/api?id=serafettingunes&label=G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
- 
+
+
 [![linkedin (1)](https://user-images.githubusercontent.com/54938342/118039477-10405b80-b379-11eb-98f9-89b40130d0da.png)](https://www.linkedin.com/in/%C5%9Ferafettin-g%C3%BCne%C5%9F-3440/) [![blogger (1)](https://user-images.githubusercontent.com/54938342/118039667-4087fa00-b379-11eb-8f36-2cba27b891a1.png)](https://serafettingunes.blogspot.com/)   [![iconfinder_BW_Twitter_4_glyph_svg_5305171](https://user-images.githubusercontent.com/54938342/118364869-faae7a00-b5a2-11eb-9691-ba0439c04e0c.png)](https://twitter.com/erafett57354175)  [ ![iconfinder_instagram_square_black_107097](https://user-images.githubusercontent.com/54938342/118364994-84f6de00-b5a3-11eb-8503-63f561d32ffc.png)](https://www.instagram.com/serafettingunes40/?hl=tr)  [![youtube (1)](https://user-images.githubusercontent.com/54938342/118039802-67463080-b379-11eb-9fde-4b3d5d5c366c.png)](https://www.youtube.com/channel/UCC3k83-Bh5AXcvKBZDh9_Ag)  [![facebook](https://user-images.githubusercontent.com/54938342/118095182-6e505b80-b3d8-11eb-9b92-8787e4a4beca.png)](https://www.facebook.com/serafettin.gunes.9066/)  
 
 

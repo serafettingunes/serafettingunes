@@ -4,7 +4,7 @@ Yaptığım projeler
 
 [![100](https://github.com/user-attachments/assets/2083d6c5-02c5-4172-bac0-8d16c75f3f17)](https://play.google.com/store/apps/details?id=com.createchsoft.mathpuzzle)
 [![FootballersTurkuaz](https://github.com/user-attachments/assets/12280718-f118-458e-acc0-30c2d6d72906)](https://play.google.com/store/apps/details?id=com.createchsoft.footballers)
-[![Ekran-görüntüsü-2023-11-26-185753](https://github.com/user-attachments/assets/9c7cb394-47db-40bc-a8b8-ef80ef6fa6de)](https://serafettingunes.github.io/futbolcu/)
+[![100](https://github.com/user-attachments/assets/35a16acb-bd33-4b2a-81f5-7a021c5f105e)](https://play.google.com/store/apps/details?id=com.companyname.mathgamenew&hl=en_US)
 
 
 [![](https://visitcount.itsvg.in/api?id=serafettingunes&label=G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
